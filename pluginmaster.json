@@ -19,5 +19,27 @@
     "DownloadLinkInstall": "https://suuria.github.io/plugins/FunnyDutyRoulettPlugin/latest.zip",
     "DownloadLinkUpdate": "https://suuria.github.io/plugins/FunnyDutyRoulettPlugin/latest.zip",
     "LastUpdate": "1787266538"
+  },
+  {
+    "Author": "Suuria",
+    "Name": "Relic Tracker",
+    "InternalName": "RelicTracker",
+    "AssemblyVersion": "0.0.1.1",
+    "Description": "A compact checklist for every combat relic weapon stage, grouped by expansion and job.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Suuria/RelicTracker",
+    "Tags": [
+      "relic",
+      "weapons",
+      "tracker",
+      "checklist"
+    ],
+    "DalamudApiLevel": 15,
+    "Punchline": "Track every FFXIV relic weapon across jobs and expansions.",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://suuria.github.io/plugins/RelicTracker/latest.zip",
+    "DownloadLinkUpdate": "https://suuria.github.io/plugins/RelicTracker/latest.zip",
+    "LastUpdate": "1787317331"
   }
 ]
