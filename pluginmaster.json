@@ -24,7 +24,7 @@
     "Author": "Suuria",
     "Name": "Relic Tracker",
     "InternalName": "RelicTracker",
-    "AssemblyVersion": "0.0.1.1",
+    "AssemblyVersion": "0.0.1.2",
     "Description": "A compact checklist for every combat relic weapon stage, grouped by expansion and job.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Suuria/RelicTracker",
@@ -40,6 +40,6 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://suuria.github.io/plugins/RelicTracker/latest.zip",
     "DownloadLinkUpdate": "https://suuria.github.io/plugins/RelicTracker/latest.zip",
-    "LastUpdate": "1787317331"
+    "LastUpdate": "1787336037"
   }
 ]
