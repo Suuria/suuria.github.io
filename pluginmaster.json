@@ -24,23 +24,25 @@
     "Author": "Suuria",
     "Name": "Relic Tracker",
     "InternalName": "RelicTracker",
-    "AssemblyVersion": "0.0.1.3",
-    "Description": "A compact checklist for every combat relic weapon stage, grouped by expansion and job.",
+    "AssemblyVersion": "0.0.1.4",
+    "Description": "A compact checklist for combat relic weapon stages and the independent Anemos and Elemental Armor routes.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Suuria/RelicTracker",
     "IconUrl": "https://raw.githubusercontent.com/Suuria/RelicTracker/master/images/icon.png",
     "Tags": [
       "relic",
       "weapons",
+      "armor",
+      "eureka",
       "tracker",
       "checklist"
     ],
     "DalamudApiLevel": 15,
-    "Punchline": "Track every FFXIV relic weapon across jobs and expansions.",
+    "Punchline": "Track FFXIV relic weapons and Eureka armor across jobs.",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://suuria.github.io/plugins/RelicTracker/latest.zip",
     "DownloadLinkUpdate": "https://suuria.github.io/plugins/RelicTracker/latest.zip",
-    "LastUpdate": "1787339402"
+    "LastUpdate": "1787677287"
   }
 ]
