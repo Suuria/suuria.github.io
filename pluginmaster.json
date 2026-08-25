@@ -24,7 +24,7 @@
     "Author": "Suuria",
     "Name": "Relic Tracker",
     "InternalName": "RelicTracker",
-    "AssemblyVersion": "0.0.1.4",
+    "AssemblyVersion": "0.0.1.5",
     "Description": "A compact checklist for combat relic weapon stages and the independent Anemos and Elemental Armor routes.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Suuria/RelicTracker",
@@ -43,6 +43,6 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://suuria.github.io/plugins/RelicTracker/latest.zip",
     "DownloadLinkUpdate": "https://suuria.github.io/plugins/RelicTracker/latest.zip",
-    "LastUpdate": "1787677287"
+    "LastUpdate": "1787679834"
   }
 ]
