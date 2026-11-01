@@ -1,6 +1,30 @@
 [
   {
     "Author": "Suuria",
+    "Name": "EasyCrucible",
+    "InternalName": "EasyCrucible",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Beastmaster helper for the Crucible of the Unbroken: recommends the best familiars for every space and the board roster, frames them directly in the game's team selection, rates treasure and shop items, reads your captured familiars automatically and shows where to capture missing ones.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Suuria/EasyCrucible",
+    "IconUrl": "https://raw.githubusercontent.com/Suuria/EasyCrucible/main/images/icon.png",
+    "Tags": [
+      "beastmaster",
+      "crucible",
+      "bst",
+      "familiar",
+      "bestiary"
+    ],
+    "DalamudApiLevel": 15,
+    "Punchline": "Which familiars to bring into each Crucible of the Unbroken space.",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://suuria.github.io/plugins/EasyCrucible/latest.zip",
+    "DownloadLinkUpdate": "https://suuria.github.io/plugins/EasyCrucible/latest.zip",
+    "LastUpdate": "1793553100"
+  },
+  {
+    "Author": "Suuria",
     "Name": "Funny Duty Roulett Plugin",
     "InternalName": "FunnyDutyRoulettPlugin",
     "AssemblyVersion": "0.0.0.4",
