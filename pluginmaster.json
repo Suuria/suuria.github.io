@@ -3,7 +3,7 @@
     "Author": "Suuria",
     "Name": "EasyCrucible",
     "InternalName": "EasyCrucible",
-    "AssemblyVersion": "0.1.0.0",
+    "AssemblyVersion": "0.2.0.0",
     "Description": "Beastmaster helper for the Crucible of the Unbroken: recommends the best familiars for every space and the board roster, frames them directly in the game's team selection, rates treasure and shop items, reads your captured familiars automatically and shows where to capture missing ones.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Suuria/EasyCrucible",
@@ -21,7 +21,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://suuria.github.io/plugins/EasyCrucible/latest.zip",
     "DownloadLinkUpdate": "https://suuria.github.io/plugins/EasyCrucible/latest.zip",
-    "LastUpdate": "1793553100"
+    "LastUpdate": "1793558843"
   },
   {
     "Author": "Suuria",
