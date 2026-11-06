@@ -27,7 +27,7 @@
     "Author": "Suuria",
     "Name": "Funny Duty Roulett Plugin",
     "InternalName": "FunnyDutyRoulettPlugin",
-    "AssemblyVersion": "0.0.0.5",
+    "AssemblyVersion": "0.0.0.6",
     "Description": "Verbindet sich über deine PlayerID mit Funny Duty Roulette, zeigt alle Job-Zuweisungen der aktuellen Session und prüft live, ob die Party bereits auf diese Jobs gewechselt ist. Als Host kannst du die nächste Session direkt im Spiel auslosen.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Suuria/FunnyDutyRoulett",
@@ -42,7 +42,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://suuria.github.io/plugins/FunnyDutyRoulettPlugin/latest.zip",
     "DownloadLinkUpdate": "https://suuria.github.io/plugins/FunnyDutyRoulettPlugin/latest.zip",
-    "LastUpdate": "1793966201"
+    "LastUpdate": "1793968260"
   },
   {
     "Author": "Suuria",
